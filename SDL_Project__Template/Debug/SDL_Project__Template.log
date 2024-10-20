@@ -1,0 +1,25 @@
+﻿  AnimSprite.cpp
+  Bullet.cpp
+  Enemy.cpp
+  Game.cpp
+C:\Users\29037\Downloads\SDL_Game2_Mod\Game.cpp(116,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\29037\Downloads\SDL_Game2_Mod\Game.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Player.cpp
+  PushBkg.cpp
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(44,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(45,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(117,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(118,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(147,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(148,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(167,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(168,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(173,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\29037\Downloads\SDL_Game2_Mod\PushBkg.cpp(174,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ScrollBkg.cpp
+  Spaceship.cpp
+  Sprite.cpp
+  Generating Code...
+C:\Users\29037\Downloads\SDL_Game2_Mod\Game.cpp(60): warning C4715: 'Game::initialise': not all control paths return a value
+  SDL_Project__Template.vcxproj -> C:\SDKs\SDL_Project__Template\Debug\SDL_Project__Template.exe
